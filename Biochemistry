@@ -1,0 +1,23 @@
+// biochemistry.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Biochemistry Notes</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="header"><h1>Biochemistry</h1></div>
+  <div class="content">
+    <ul>
+      <li><a href="pdfs/biochem-molecular.pdf" download>Molecular Biology</a></li>
+      <li><a href="pdfs/biochem-carbohydrates.pdf" download>Carbohydrates</a></li>
+      <li><a href="pdfs/biochem-proteins.pdf" download>Proteins</a></li>
+      <li><a href="pdfs/biochem-lipids.pdf" download>Lipids</a></li>
+      <li><a href="pdfs/biochem-cancer.pdf" download>Cancer</a></li>
+      <li><a href="pdfs/biochem-enzymes.pdf" download>Enzymes</a></li>
+      <li><a href="pdfs/biochem-etc.pdf" download>ETC</a></li>
+    </ul>
+  </div>
+</body>
+</html>
