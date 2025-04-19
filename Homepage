@@ -1,0 +1,29 @@
+// index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arnav's Medical Notes</title>
+  <link href="style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="header">
+    <h1>Arnav's Medical Notes</h1>
+    <div class="badge">Handwritten Notes by Arnav</div>
+  </div>
+  <div class="content">
+    <h2>1st Year Subjects</h2>
+    <ul>
+      <li><a href="anatomy.html">Anatomy</a></li>
+      <li><a href="physiology.html">Physiology</a></li>
+      <li><a href="biochemistry.html">Biochemistry</a></li>
+    </ul>
+    <h2>2nd Year Subjects</h2>
+    <ul>
+      <li><a href="second-year.html">Second Year Notes</a></li>
+    </ul>
+  </div>
+</body>
+</html>
