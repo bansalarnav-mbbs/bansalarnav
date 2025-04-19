@@ -1,0 +1,48 @@
+// style.css
+body {
+  font-family: 'Patrick Hand', cursive;
+  background-color: #f7f2e7;
+  color: #4e3e2d;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  padding: 1rem;
+  background-color: #e9ddc7;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1 {
+  margin: 0;
+}
+
+.badge {
+  display: inline-block;
+  background: #f2e2b8;
+  padding: 0.5rem 1rem;
+  margin-top: 0.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+}
+
+.content {
+  padding: 1rem 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 0.5rem 0;
+}
+
+a {
+  text-decoration: none;
+  color: #6a4e3c;
+  font-weight: bold;
+}
