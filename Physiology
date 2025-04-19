@@ -1,0 +1,25 @@
+// physiology.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Physiology Notes</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="header"><h1>Physiology</h1></div>
+  <div class="content">
+    <ul>
+      <li><a href="pdfs/physiology-general.pdf" download>General Physiology</a></li>
+      <li><a href="pdfs/physiology-hematology.pdf" download>Hematology</a></li>
+      <li><a href="pdfs/physiology-git.pdf" download>GIT</a></li>
+      <li><a href="pdfs/physiology-reproductive.pdf" download>Reproductive System</a></li>
+      <li><a href="pdfs/physiology-respiratory.pdf" download>Respiratory System</a></li>
+      <li><a href="pdfs/physiology-renal.pdf" download>Renal System</a></li>
+      <li><a href="pdfs/physiology-cardiovascular.pdf" download>Cardiovascular System</a></li>
+      <li><a href="pdfs/physiology-endocrinology.pdf" download>Endocrinology</a></li>
+      <li><a href="pdfs/physiology-cns.pdf" download>CNS & Special Senses</a></li>
+    </ul>
+  </div>
+</body>
+</html>
