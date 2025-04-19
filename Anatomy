@@ -1,0 +1,24 @@
+
+// anatomy.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Anatomy Notes</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="header"><h1>Anatomy</h1></div>
+  <div class="content">
+    <ul>
+      <li><a href="pdfs/anatomy-upper-limb.pdf" download>Upper Limb</a></li>
+      <li><a href="pdfs/anatomy-abdomen.pdf" download>Abdomen</a></li>
+      <li><a href="pdfs/anatomy-thorax.pdf" download>Thorax</a></li>
+      <li><a href="pdfs/anatomy-head-neck.pdf" download>Head & Neck</a></li>
+      <li><a href="pdfs/anatomy-neuro.pdf" download>Neuroanatomy</a></li>
+      <li><a href="pdfs/anatomy-lower-limb.pdf" download>Lower Limb</a></li>
+      <li><a href="pdfs/anatomy-histology.pdf" download>Histology</a></li>
+    </ul>
+  </div>
+</body>
+</html>
