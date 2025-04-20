@@ -10,9 +10,9 @@
   <div class="header"><h1>2nd Year Notes</h1></div>
   <div class="content">
     <ul>
-      <li>Pharmacology — Coming Soon</li>
-      <li>Pathology — Coming Soon</li>
-      <li>Microbiology — Coming Soon</li>
+      <li><a href="#">Pharmacology — Coming Soon</a></li>
+      <li><a href="#">Pathology — Coming Soon</a></li>
+      <li><a href="#">Microbiology — Coming Soon</a></li>
     </ul>
   </div>
 </body>
