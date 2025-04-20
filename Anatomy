@@ -1,4 +1,3 @@
-
 // anatomy.html
 <!DOCTYPE html>
 <html lang="en">
@@ -11,13 +10,13 @@
   <div class="header"><h1>Anatomy</h1></div>
   <div class="content">
     <ul>
-      <li><a href="pdfs/anatomy-upper-limb.pdf" download>Upper Limb</a></li>
-      <li><a href="pdfs/anatomy-abdomen.pdf" download>Abdomen</a></li>
-      <li><a href="pdfs/anatomy-thorax.pdf" download>Thorax</a></li>
-      <li><a href="pdfs/anatomy-head-neck.pdf" download>Head & Neck</a></li>
-      <li><a href="pdfs/anatomy-neuro.pdf" download>Neuroanatomy</a></li>
-      <li><a href="pdfs/anatomy-lower-limb.pdf" download>Lower Limb</a></li>
-      <li><a href="pdfs/anatomy-histology.pdf" download>Histology</a></li>
+      <li><a href="https://drive.google.com/your-link-to-upper-limb" target="_blank">Upper Limb</a></li>
+      <li><a href="https://drive.google.com/your-link-to-abdomen" target="_blank">Abdomen</a></li>
+      <li><a href="https://drive.google.com/your-link-to-thorax" target="_blank">Thorax</a></li>
+      <li><a href="https://drive.google.com/your-link-to-head-neck" target="_blank">Head & Neck</a></li>
+      <li><a href="https://drive.google.com/your-link-to-neuro" target="_blank">Neuroanatomy</a></li>
+      <li><a href="https://drive.google.com/your-link-to-lower-limb" target="_blank">Lower Limb</a></li>
+      <li><a href="https://drive.google.com/your-link-to-histology" target="_blank">Histology</a></li>
     </ul>
   </div>
 </body>
