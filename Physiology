@@ -10,15 +10,15 @@
   <div class="header"><h1>Physiology</h1></div>
   <div class="content">
     <ul>
-      <li><a href="pdfs/physiology-general.pdf" download>General Physiology</a></li>
-      <li><a href="pdfs/physiology-hematology.pdf" download>Hematology</a></li>
-      <li><a href="pdfs/physiology-git.pdf" download>GIT</a></li>
-      <li><a href="pdfs/physiology-reproductive.pdf" download>Reproductive System</a></li>
-      <li><a href="pdfs/physiology-respiratory.pdf" download>Respiratory System</a></li>
-      <li><a href="pdfs/physiology-renal.pdf" download>Renal System</a></li>
-      <li><a href="pdfs/physiology-cardiovascular.pdf" download>Cardiovascular System</a></li>
-      <li><a href="pdfs/physiology-endocrinology.pdf" download>Endocrinology</a></li>
-      <li><a href="pdfs/physiology-cns.pdf" download>CNS & Special Senses</a></li>
+      <li><a href="https://drive.google.com/your-link-to-general-physiology" target="_blank">General Physiology</a></li>
+      <li><a href="https://drive.google.com/your-link-to-hematology" target="_blank">Hematology</a></li>
+      <li><a href="https://drive.google.com/your-link-to-git" target="_blank">GIT</a></li>
+      <li><a href="https://drive.google.com/your-link-to-reproductive" target="_blank">Reproductive System</a></li>
+      <li><a href="https://drive.google.com/your-link-to-respiratory" target="_blank">Respiratory System</a></li>
+      <li><a href="https://drive.google.com/your-link-to-renal" target="_blank">Renal System</a></li>
+      <li><a href="https://drive.google.com/your-link-to-cardiovascular" target="_blank">Cardiovascular System</a></li>
+      <li><a href="https://drive.google.com/your-link-to-endocrinology" target="_blank">Endocrinology</a></li>
+      <li><a href="https://drive.google.com/your-link-to-cns" target="_blank">CNS & Special Senses</a></li>
     </ul>
   </div>
 </body>
